@@ -2,8 +2,6 @@ Logistic regression has many applications in data science, but in the world of h
 
 We are specifically using logistic regression model, to identify correlations between the following 9 independent variables and the class of the tumor (benign or malignant).
 
-The following are the features used in the project to detect cancer:
-
 * Clump thickness
 * Uniformity of cell size
 * Uniformity of cell shape
